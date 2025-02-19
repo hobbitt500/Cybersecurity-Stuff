@@ -4,10 +4,10 @@
 # This script recursively downloads a website and replicates its directory structure.
 # It’s useful for gathering an offline copy of a site to speed up directory analysis.
 #
-# Usage: ./web_download.sh <target_url> [recursion_depth]
+# Usage: ./Fastestdirsearch.sh <target_url> [recursion_depth]
 #
 # Example:
-#   ./web_download.sh http://example.com 5
+#   ./Fastestdirsearch.sh http://example.com 5
 #
 # DISCLAIMER: Use this script only on websites/servers you have permission to test.
 
