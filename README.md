@@ -7,7 +7,11 @@ Supports recursion depth, random wait times, SSL handling, and offline viewing.
 How to Use 🚀
 
 git clone https://github.com/hobbitt500/Fast-Directory-Searching.git
+
+
 cd YOUR_REPO  
+
+
 chmod +x Fastestdirsearch.sh  
 
 2️⃣ Run the Script:
